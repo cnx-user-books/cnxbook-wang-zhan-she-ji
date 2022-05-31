@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Coldfusion</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32952</md:content-id>
+  <md:title>Coldfusion</md:title>
+  <md:abstract/>
+  <md:uuid>991ce369-3aca-42d2-9a24-a056788d7f52</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="www.7yue.com" strength="3">7yue</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <para id="delete_me">ColdFusion可以从两方面来定义，它既是一种应用服务器也是一种编程语言。很多开发人员常常把它们当成一件事，他们用ColdFusion语言（CFML - ColdFusion Markup Language）来编写应有程序，并把编写的应用程序运行在ColdFusion服务器上。 但是用ColdFusion语言编写的应用程序可以运行在其它支持CFML的应用服务器上，如J2EE应用服务器，这样一来就给那些高端的应用服务器提供了另一种简洁高效的开发语言。不管您选择使用ColdFusion应用服务器还是选择使用其它的应用服务器，CFML语言都为您提供了一个快速开发功能强大的应用程序的有效方案。
+
+    ASP,PHP,PERL,JSP都是免费的，而COLDFUSION的企业版售价高达3000美金，(对于美国人而言只是一个开发人员的月薪)。可想而知，COLDFUSION对企业的帮助，远远高于3000美金的价值。全球500强有半数以上企业运用COLDFUSION，光HP公司，无线部门和欧洲分公司， 就大量运用COLDFUSION技术。因COLDFUSION开发进度相当快，所以在国外的COLDFUSION程序员，往往把注意力和时间放在更深远的WEB模型中。
+
+    Adobe系统公司（Nasdaq：ADBE）宣布的Adobe ® ColdFusion ® 9和ColdFusion ® Builder™软件的公测版。 ColdFusion 8，一种用于构建动态网站和互联网应用，提高开发人员的生产力，强大的开发技术集成与复杂的企业环境，并为用户提供丰富的交互体验。 ColdFusion Builder是一个新的基于Eclipse的集成开发环境（IDE）为快速发展的ColdFusion应用。 
+
+    ColdFusion开发现在能够利用更多的与Adobe ®FLASH®平台的集成工具，框架，客户端和服务器的网络应用，内容和视频运行始终跨操作系统和设备的开发完整的系统集成。因此，开发人员和IT专业人士创造一个丰富的用户界面更容易路径他们的企业应用集成在它们现有的技术。 
+
+    “ColdFusion 9有几个新的利益功能，为企业客户，特别是有关微软SharePoint集成，并能够读写，作为业务流程的一部分微软Office文件，”乔尔考克斯说，IT产品经理。“新一系列创新的工具，加强整合与提升ColdFusion一个新的水平的功能为商业用户开发和改进的性能都获得允许。”
+
+     ColdFusion 9加速减少到几行代码复杂和强大的业务逻辑的开发周期。 ColdFusion 8应用，从现有的企业基础设施，包括微软SharePoint，微软Office文件和portlet标准，轻松地访问数据。此外，新的ColdFusion 9功能包括一个Adobe ®AIR从一个地方管理多个ColdFusion服务器®应用，从而节省执行时间并减少多余的任务。 ColdFusion 9还提供了本地和远程与Adobe AIR的数据库同步，改善，使他们能够使用的应用程序不管互联网连接用户的满意度。此外，使用Hibernate的对象关系映射（ORM）的深入整合提供了数据库开发独立的应用程序。合并后的新功能，可以实现更快的网络应用开发和部署。
+
+     ColdFusion Builder是一个新的开发工具，提供了一个统一的，可定制，可扩展的开发环境，代码应用程序，管理服务器和部署项目。它包括在IDE中调试，远程支持和自定义代码生成，定制的开发环境，并在ColdFusion 7和8的应用软件支持的应用程序的工具。使用ColdFusion生成器，开发人员可以变得更有效率由于多余的任务和代码重用的自动化。此外，由于ColdFusion生成器和Adobe ®闪存®生成器™是基于Eclipse的，有深厚的功能整合，增强工作流程，生成客户端和服务器的代码。因此，开发人员可以更简单地创造丰富的接口和ColdFusion服务器端的逻辑应用。 
+
+    ColdFusion 9公共测试版可以在访问www.adobe.com/go/coldfusion_beta_download </para>
+</content>
+
+</document>
