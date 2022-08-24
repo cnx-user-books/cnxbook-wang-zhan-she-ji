@@ -1,3 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11140</md:content-id>  <md:title>网站设计</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>zh-cn</md:language>              <md:uuid>8e5d5e12-f1b3-460a-997a-0323da008ec6</md:uuid>
-<md:slug>wang-zhan-she-ji</md:slug>
-</metadata>  <col:content>          <col:module document="m32952">        <col:featured-links>                      <cnxml:link-group type="example">              <cnxml:link url="www.7yue.com">7yue</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" authors="lou jun ,guo bin">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11140</md:content-id>
+    <md:title>&#x7F51;&#x7AD9;&#x8BBE;&#x8BA1;</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>zh-cn</md:language>
+    <md:uuid>8e5d5e12-f1b3-460a-997a-0323da008ec6</md:uuid>
+    <md:slug>wang-zhan-she-ji</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m32952">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="www.7yue.com">7yue</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+  </col:content>
+</col:collection>
